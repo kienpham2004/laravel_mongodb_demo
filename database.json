@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "61712372bc3c0000f1003916"
+  },
+  "fullname": "Phạm Văn Kiên",
+  "username": "kienpv",
+  "email": "kienpv@gmail.com",
+  "phone": "0359180101",
+  "updated_at": {
+    "$date": "2021-10-21T08:23:14.589Z"
+  },
+  "created_at": {
+    "$date": "2021-10-21T08:23:14.589Z"
+  }
+},{
+  "_id": {
+    "$oid": "61712481bc3c0000f1003919"
+  },
+  "fullname": "Trần Văn Tú",
+  "username": "tutv",
+  "email": "tutv@gmail.com",
+  "phone": "0359180101",
+  "updated_at": {
+    "$date": "2021-10-21T08:27:45.203Z"
+  },
+  "created_at": {
+    "$date": "2021-10-21T08:27:45.203Z"
+  }
+},{
+  "_id": {
+    "$oid": "6171249abc3c0000f100391a"
+  },
+  "fullname": "Vũ Hoàng Duy",
+  "username": "duyvh",
+  "email": "duyvh@gmail.com",
+  "phone": "0359180101",
+  "updated_at": {
+    "$date": "2021-10-21T08:28:10.497Z"
+  },
+  "created_at": {
+    "$date": "2021-10-21T08:28:10.497Z"
+  }
+},{
+  "_id": {
+    "$oid": "617124a7bc3c0000f100391b"
+  },
+  "fullname": "Lưu Thanh Sang",
+  "username": "sanglt",
+  "email": "sanglt@gmail.com",
+  "phone": "0359180101",
+  "updated_at": {
+    "$date": "2021-10-21T08:28:23.754Z"
+  },
+  "created_at": {
+    "$date": "2021-10-21T08:28:23.754Z"
+  }
+},{
+  "_id": {
+    "$oid": "617124b5bc3c0000f100391c"
+  },
+  "fullname": "Vũ Văn Sáng",
+  "username": "sangvv",
+  "email": "sangvv@gmail.com",
+  "phone": "0359180101",
+  "updated_at": {
+    "$date": "2021-10-21T08:28:37.658Z"
+  },
+  "created_at": {
+    "$date": "2021-10-21T08:28:37.658Z"
+  }
+},{
+  "_id": {
+    "$oid": "617124c8bc3c0000f100391d"
+  },
+  "fullname": "Tạ Quang Chung",
+  "username": "chungqt",
+  "email": "chungqt@gmail.com",
+  "phone": "0359180101",
+  "updated_at": {
+    "$date": "2021-10-21T08:28:56.919Z"
+  },
+  "created_at": {
+    "$date": "2021-10-21T08:28:56.919Z"
+  }
+}]
